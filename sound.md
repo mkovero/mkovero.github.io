@@ -145,4 +145,3 @@ Here’s a table summarizing the voltages, dBu levels, and SPL for the entire si
 
 Would you like to proceed with adjusting the gain and testing the track? Let me know if you need further assistance!
 
-https://grok.com/share/bGVnYWN5_53e24373-ceee-42a6-9e31-3864eb103337
